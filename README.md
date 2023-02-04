@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://mahbubul-hasan-sakib.netlify.app/](https://mahbubul-hasan-sakib.netlify.app/)
-
 - 💬 Ask me about **React.js,Node.js,Express.js,MongoDB**
 
 - 📫 How to reach me **mahbubulhasan179@gmail.com**
