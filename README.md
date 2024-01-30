@@ -5,13 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahbubulhasansakib&label=Profile%20views&color=0e75b6&style=flat" alt="mahbubulhasansakib" /> </p>
 
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **React.js,Node.js,Express.js,MongoDB**
+- 💬 Ask me about **React.js,Node.js,Express.js,MongoDB,Nest.js**
 
 - 📫 How to reach me **mahbubulhasan179@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/16BmpnY3NAt3Iefm8D9AFlq0AAqI-Pfw5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
